@@ -110,8 +110,7 @@ Analyses using this dataset should also avoid treating associations as evidence 
 **Author:** Meilin An  
 **ORCID:** [0000-0003-1983-4032](https://orcid.org/0000-0003-1983-4032)
 ### Dataset DOI
-The original Student Performance dataset is identified by the following DOI:
-**DOI:** [10.24432/C5TG7T](https://doi.org/10.24432/C5TG7T)
+The original Student Performance dataset is identified by the DOI **[10.24432/C5TG7T](https://doi.org/10.24432/C5TG7T)**.
 
 ## Project Reflection
 ### Which metadata standard did I choose and why?
