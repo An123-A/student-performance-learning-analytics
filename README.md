@@ -1,4 +1,15 @@
 # Student Performance: A Learning Analytics Project
+## Quick Information
+| Item | Details |
+|---|---|
+| **Dataset** | UCI Student Performance |
+| **Subject** | Mathematics |
+| **Students** | 395 |
+| **Variables** | 33 |
+| **Metadata Standard** | Data Documentation Initiative (DDI) |
+| **File Format** | CSV |
+| **License** | CC BY 4.0 |
+| **DOI** | [10.24432/C5TG7T](https://doi.org/10.24432/C5TG7T) |
 ## Project overview 
 This project uses the Student Performance dataset from the UCI Machine Learning Repository to explore factors related to secondary school students' academic performance. The dataset contains information about students' demographic characteristics, family backgrounds, study habits, school experiences, social behaviors, attendance, and academic grades. For this project, I use the Mathematics course dataset ('student-mat.csv'), which contains 395 student records and 33 variables. The purpose of this project is to document the dataset clearly and systematically so that other researchers can understand, access, interpret, and potentially reuse the data for learning analytics and educational research. 
 ## Research Questions 
